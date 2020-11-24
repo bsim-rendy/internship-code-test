@@ -40,7 +40,7 @@ The following programming languages could be used to solve the problems.
                     enablePrint = N / 10;
                 }
                 if (enablePrint > 0) {
-                    System.out.print(N % 10);
+                    System.out.print(enablePrint);
                 }
                 N /= 10;
             }
