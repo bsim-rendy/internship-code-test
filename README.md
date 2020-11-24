@@ -23,7 +23,7 @@ The following programming languages could be used to solve the problems.
 
     _Notes: reversed form needs to be a valid integer_
     
-    From the following code section, you can add up to 3 lines of code and also change up to 3 lines of code to `solution` method in order to get the correct output to the problem described above.
+    From the following code section, you can add up to 2 lines of code and also change up to 2 lines of code to `solution` method in order to get the correct output to the problem described above.
     ```java
     public class Main {
         public static void main(String[] args) {
