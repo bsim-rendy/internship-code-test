@@ -78,3 +78,9 @@ The following programming languages could be used to solve the problems.
     Write an efficient algorithm for the following assumptions:
     -   _N_ is an integer within the range `[0..1,000,000]`;
     -   string _S_ consists only of the characters `"("` and/or `")"`.
+    
+---
+
+_It would be nice to_:
+-   include some comments on your code to explain your thought on the problem
+-   send us your solution using git repository such as: GitHub, GitLab, BitBucket, etc
